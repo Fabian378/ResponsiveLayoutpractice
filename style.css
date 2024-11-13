@@ -8,9 +8,18 @@
 .nav {
    background-color: #383E4C;
 }
+.centered {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+ }
 
 .text {
    color: white;  
+}
+.text-2 {
+   color: white;
 }
 
 .card-container {
